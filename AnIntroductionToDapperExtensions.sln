@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rnsx.Stockify.Data", "Rnsx.Stockify.Data\Rnsx.Stockify.Data.csproj", "{90BA1593-115C-4F35-80C3-2804A913291C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rnsx.Stockify.Data.IntegrationTests", "Rnsx.Stockify.Data.IntegrationTests\Rnsx.Stockify.Data.IntegrationTests.csproj", "{01795F31-1D97-4722-BCEA-63661C024D5C}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "AnIntroductionToDapperExtensions", "AnIntroductionToDapperExtensions\AnIntroductionToDapperExtensions.sqlproj", "{B217F43F-50B1-4CED-80E9-DF58DDA6230D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90BA1593-115C-4F35-80C3-2804A913291C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90BA1593-115C-4F35-80C3-2804A913291C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90BA1593-115C-4F35-80C3-2804A913291C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90BA1593-115C-4F35-80C3-2804A913291C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01795F31-1D97-4722-BCEA-63661C024D5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01795F31-1D97-4722-BCEA-63661C024D5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01795F31-1D97-4722-BCEA-63661C024D5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01795F31-1D97-4722-BCEA-63661C024D5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B217F43F-50B1-4CED-80E9-DF58DDA6230D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B217F43F-50B1-4CED-80E9-DF58DDA6230D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B217F43F-50B1-4CED-80E9-DF58DDA6230D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B217F43F-50B1-4CED-80E9-DF58DDA6230D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B217F43F-50B1-4CED-80E9-DF58DDA6230D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B217F43F-50B1-4CED-80E9-DF58DDA6230D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
